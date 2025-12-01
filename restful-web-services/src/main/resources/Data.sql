@@ -1,0 +1,8 @@
+INSERT INTO USER_DETAILS (NAME,BIRTH_DATE)  VALUES('Gert Van Vaerenbergh',current_date());
+INSERT INTO USER_DETAILS (NAME,BIRTH_DATE)  VALUES('Kobe Van Vaerenbergh',current_date());
+INSERT INTO USER_DETAILS (NAME,BIRTH_DATE)  VALUES('Mauri Van Vaerenbergh',current_date());
+INSERT INTO USER_DETAILS (NAME,BIRTH_DATE)  VALUES('Wendy Borms',current_date());
+
+INSERT INTO POST (DESCRIPTION,USER_ID) VALUES('Test description',1);
+INSERT INTO POST (DESCRIPTION,USER_ID) VALUES('Test description 2',1);
+INSERT INTO POST (DESCRIPTION,USER_ID) VALUES('Test description 3',1);
